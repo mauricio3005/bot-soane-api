@@ -25,7 +25,7 @@ base_path = "banco de dados"
 try:
     with open(os.path.join(base_path, "instruções_soane.txt"), "r", encoding="utf-8") as f:
         instrucao = f.read()
-    with open(os.path.join(base_path, "conteudo_principal.json"), "r", encoding="utf-8") as f:
+    with open(os.path.join(base_path, "conteudos.json"), "r", encoding="utf-8") as f:
         cerebro_principal = json.load(f)
     with open(os.path.join(base_path, "faq.json"), "r", encoding="utf-8") as f:
         faq = json.load(f)
@@ -105,3 +105,4 @@ def webhook():
 # --- 5. COMANDO PARA INICIAR O SERVIDOR ---
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=int(os.environ.get('PORT', 8080)))
+
