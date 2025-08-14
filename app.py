@@ -49,7 +49,7 @@ conversas_ativas = {}
 
 # --- 4. A ROTA DA API (O WEBHOOK QUE RECEBE AS MENSAGENS) ---
 
-@app.route('https://bot-soane-api.onrender.com', methods=['POST'])
+@app.route('/https://bot-soane-api.onrender.com', methods=['POST'])
 def webhook():
     # Extrai os dados enviados pelo n8n ou provedor do WhatsApp
     dados_recebidos = request.get_json()
@@ -120,3 +120,4 @@ if __name__ == '__main__':
     # O host='0.0.0.0' permite que a API seja acessível de fora do container/máquina
 
     app.run(host='0.0.0.0', port=int(os.environ.get('PORT', 8080)))
+
