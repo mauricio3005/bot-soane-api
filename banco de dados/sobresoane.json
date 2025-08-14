@@ -1,0 +1,92 @@
+{
+  "soane_lemos": {
+    "identidade": {
+      "nome": "Dra. Soane Lemos",
+      "especialidade": "Fisioterapeuta especializada em Recuperação Pós-Cirúrgica"
+    },
+    "missao": "Transformar a experiência do paciente no pós-operatório com soluções completas para saúde e estética, além do convencional.",
+    "abordagem": {
+      "descricao": "Abordagem inovadora, integrativa, que combina ciência, tecnologia e empatia para acelerar a recuperação, realçar resultados e promover bem-estar."
+    },
+    "pre_operatorio": {
+      "foco": "Preparar o corpo para a cirurgia, promovendo melhores resultados e segurança.",
+      "citacao": "O pré-operatório é a base para resultados previsíveis e satisfatórios...",
+      "beneficios": [
+        "Otimização das condições físicas e funcionais",
+        "Redução de riscos",
+        "Preparação dos tecidos para recuperação mais eficaz",
+        "Maior segurança e tranquilidade",
+        "Cenário favorável para o sucesso do procedimento"
+      ]
+    },
+    "pos_operatorio": {
+      "foco": "Protocolos personalizados para acelerar recuperação e garantir resultados programados.",
+      "citacao": "Com a associação da oxigenoterapia hiperbárica, ozonioterapia e outros tratamentos específicos...",
+      "beneficios": [
+        "Controle do processo inflamatório",
+        "Minimização de edemas",
+        "Prevenção de fibroses",
+        "Estímulo à cicatrização saudável",
+        "Recuperação funcional mais rápida",
+        "Resultados mais previsíveis"
+      ]
+    },
+    "tecnologias_utilizadas": [
+      "Oxigenoterapia hiperbárica",
+      "Ozonioterapia",
+      "Termografia clínica",
+      "Curativos especiais",
+      "Dermopigmentação paramédica",
+      "Terapias injetáveis",
+      "Tecnologias estéticas avançadas"
+    ],
+    "diferenciais": [
+      "Ozonioterapia para regeneração tecidual e controle inflamatório",
+      "Protocolos integrativos com termografia clínica",
+      "Curativos especiais para cicatrização avançada",
+      "Dermopigmentação paramédica para tratar cicatrizes",
+      "Estética corporal e facial com terapias injetáveis e tecnologias de ponta"
+    ],
+    "valores": [
+      "Excelência",
+      "Personalização",
+      "Integratividade",
+      "Ciência",
+      "Bem-estar",
+      "Previsibilidade",
+      "Resultados",
+      "Confiança",
+      "Empatia",
+      "Dedicação"
+    ],
+    "visao_profissional": "Trajetória marcada por dedicação, inovação e visão global que alia conhecimento técnico e empatia para transformar vidas. Comprometida com elevar os padrões da fisioterapia dermatofuncional.",
+    "especialidade_dermatofuncional": {
+      "principais_areas": [
+        "Tratamento de fibroses pós-cirúrgicas",
+        "Drenagem linfática especializada",
+        "Acompanhamento personalizado de recuperação pós-operatória",
+        "Orientação para retorno às atividades físicas",
+        "Manejo de dor e desconforto pós-cirúrgico"
+      ],
+      "abordagem_diferenciada": [
+        "Tratamentos personalizados para cada paciente",
+        "Integração com equipe cirúrgica",
+        "Foco em resultados seguros e efetivos",
+        "Uso de técnicas baseadas em evidências"
+      ],
+      "especialidades_cirurgicas_atendidas": [
+        "Lipoaspiração",
+        "Abdominoplastia",
+        "Cirurgias mamárias",
+        "Outras cirurgias plásticas"
+      ],
+      "metodologia_trabalho": [
+        "Avaliação individualizada",
+        "Protocolos personalizados",
+        "Acompanhamento progressivo",
+        "Orientações detalhadas para cuidados domiciliares",
+        "Integração de diferentes técnicas terapêuticas"
+      ]
+    }
+  }
+}

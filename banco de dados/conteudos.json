@@ -1,0 +1,91 @@
+{
+  "sobre_dra_soane": {
+    "apresentacao": "Sou Soane Lemos, fisioterapeuta especialista em dermatofuncional pela ABRAFIDEF / COFFITO (www.abrafidef.org.br) com ampla atuação em pós-operatório de cirurgias plásticas e formação em diversas técnicas de manipulação, destacando aqui a terapia manual para prevenção de fibroses e aderências, com a qual venho obtendo resultados diferenciados.",
+    "porque_investir_pos_operatorio": {
+      "objetivo": "Garantir melhor recuperação e prevenir intercorrências comuns neste período tais como fibroses, aderências, irregularidades na pele e seromas, que podem comprometer o resultado final de uma cirurgia.",
+      "alerta_manipulacao_inadequada": "Vale ressaltar que a manipulação inadequada, seja pela frequência ou força exercida, pode favorecer o aparecimento de flacidez e descolamento da pele, bem como uma cicatrização inestética. Por este motivo devemos ter cuidado com os exageros!"
+    },
+    "diferenciais_tratamento": [
+      "Avaliação inicial onde serão definidos os objetivos principais e a periodicidade de sessões.",
+      "Terapia Manual, um recurso indispensável para tratamento das disfunções do tecido, acelerando o processo de cicatrização, reduzindo a dor e o edema, restaurando a sensibilidade e garantindo a mobilidade e independência funcional.",
+      "Uso de tecnologias avaliativas como termografia infravermelha, bioimpedância corporal, medidas antropométricas, avaliação postural, escalas funcionais e registros fotográficos para maior assertividade e identificação precoce de intercorrências.",
+      "Associação de recursos manuais e tecnologias modernas, com foco único na otimização dos resultados."
+    ]
+  },
+  "terapias_e_tecnologias": {
+    "abordagem": "O objetivo não é proporcionar um tratamento engessado, mas sim, realizar a associação de recursos que proporcionarão uma recuperação mais rápida e efetiva, impactando diretamente no bem estar do paciente.",
+    "recursos_utilizados": [
+      "Terapia Manual",
+      "Cinesioterapia (movimento orientado)",
+      "Tecnologias para controle do processo inflamatório, analgesia e redução do edema (microcorrentes, fotobiomodulação, tecarterapia, correntes excitomotoras, ondas de choque, ozonioterapia)",
+      "Tape ou bandagem elástica",
+      "Drenagem linfática manual como terapia adjuvante"
+    ]
+  },
+  "processo_cicatrizacao": {
+    "objetivo_fisioterapia": "No pós-operatório, o objetivo da fisioterapia é conduzir o processo de cicatrização a fim de evitar complicações. Este processo ocorre em 3 fases, e o reconhecimento delas permite que o paciente se torne mais seguro(a) em relação às manifestações clínicas.",
+    "fase_inflamatoria": {
+      "duracao": "Mais intensa nos três primeiros dias.",
+      "sintomas": "É normal que neste momento haja edema (inchaço), vermelhidão, equimose (roxos) e dor. Algumas pessoas sentem a área dolorida, outras relatam sensação de ardor ou queimação.",
+      "cuidados": "A aplicação do tape com objetivo de contenção elástica e uso adequado de malhas (cintas) e órteses (placas, espumas) favorecerá a compressão e redução de complicações."
+    },
+    "fase_proliferativa": {
+      "caracteristica": "Os tecidos começam a ser restaurados e se inicia a formação cicatricial. É comum o paciente perceber um maior 'endurecimento' das áreas submetidas à cirurgia.",
+      "tratamento": "Este é o momento adequado para os tratamentos preventivos de formação das fibroses. Nenhum tratamento agressivo ou térmico deve ser utilizado, pois podem aumentar a formação de fibrose."
+    },
+    "fase_remodelamento": {
+      "descricao": "Todo o tecido formado na fase anterior reduz e precisa ser organizado. Se a fase proliferativa foi adequada, seguiremos com as terapias com maior espaçamento entre as sessões e retirada gradual das terapias de compressão, até a alta.",
+      "duracao_total": "Todo esse processo de cicatrização levará cerca de 40 a 60 dias."
+    }
+  },
+  "fibrose_info": {
+    "definicao": "A fibrose fará parte do processo de pós-operatório. É caracterizada pelo excesso de tecido cicatricial (principalmente o colágeno), depositado de maneira desorganizada e densa, após uma lesão na pele. Essa desorganização pode ser responsável por alterações na vascularização, sensibilidade, dor, limitações de movimento e irregularidades estéticas.",
+    "melhor_tratamento": "A terapia manual se consagra como recurso padrão ouro no tratamento da fibrose. A associação com tecnologias que promovam controle da inflamação, analgesia e biomodulação podem ser bem-vindas. Terapias que promovam aumento de temperatura e síntese de colágeno devem ser evitadas."
+  },
+  "drenagem_linfatica_info": {
+    "contexto_moderno": "Estudos científicos modernos destacam que o dano da cirurgia plástica vai além do edema. Há a formação de um tecido cicatricial denso que comprime nervos e vasos, tornando necessário o uso de terapias mais assertivas como a terapia manual.",
+    "papel_atual": "A drenagem pode ser utilizada no pós-operatório, mas como terapia coadjuvante e não como tratamento principal.",
+    "beneficios_fisioterapia_especializada": [
+      "Prevenção e tratamento de fibroses e aderências",
+      "Restauração da respiração adequada",
+      "Alívio de dores e desconfortos musculares",
+      "Retorno da força muscular e amplitudes de movimento",
+      "Orientação de posturas corretas e promoção de independência funcional precoce"
+    ]
+  },
+  "cuidados_cicatrizes_reparo_tecidual": {
+    "intervencao_precoce": "Complicações podem ocorrer, e tão importante quanto prevenir é poder intervir precocemente e de forma assertiva, evitando agravamento do resultado. O avanço de tecnologias e a necessidade de retorno rápido às atividades aumentam o risco de complicações, exigindo uma atuação multidisciplinar.",
+    "indicacoes_terapia": [
+      "Casos de hipoperfusão tecidual, isquemias e lesões térmicas.",
+      "Tratamento de epiteliólises, isquemias e necroses areolares.",
+      "Tratamento de deiscências e feridas.",
+      "Prevenção de isquemias e lesões térmicas."
+    ],
+    "recursos_diagnosticos_e_terapeuticos": "A utilização de recursos como a termografia infravermelha permite avaliar a extensão da lesão. Tecnologias como oxigenoterapia hiperbárica, fotobiomodulação (laser), microcorrentes e ozonioterapia aumentam a oxigenação e aceleram o reparo tecidual. A orientação de cuidados domiciliares e curativos corretos são essenciais."
+  },
+  "tape_info": {
+    "definicao_e_objetivo": "A bandagem elástica (Kinesio taping) atua de forma mecânica no pós-operatório, com o objetivo de aumentar a compressão local, reduzindo o espaço morto e auxiliando na redução de edema, equimose e seroma. Também pode ser usada para definição de contorno corporal.",
+    "aplicacao_e_cuidados": "Sua aplicação pode ocorrer no pós-operatório imediato para controlar a formação de edema. O tape não substitui cintas e modeladores, mas potencializa os resultados. O tempo de permanência na pele varia de 3 a 7 dias. O banho pode ser realizado normalmente, e a secagem deve ser feita com toalha ou secador no modo frio.",
+    "alerta_alergia": "O surgimento de vermelhidão, coceira ou ardência deve ser informado ao fisioterapeuta para avaliação da retirada precoce, sob risco de lesões na pele."
+  },
+  "ozonioterapia_pos_imediato": {
+    "objetivo": "A ozonioterapia tem sido utilizada no pós-operatório imediato como um recurso valioso para aumentar a oxigenação tecidual, melhorar a vascularização, evitar isquemia, promover analgesia (redução da dor) e otimizar a cicatrização, reduzindo chances de equimoses e lesões.",
+    "aplicacao": "Sua aplicação está atrelada ao conhecimento prévio da clínica do paciente e concordância multiprofissional, sendo realizada em ambiente cirúrgico ou nas primeiras 24 horas pós-procedimento."
+  },
+  "inicio_local_e_valores": {
+    "quando_iniciar": "Comumente, iniciamos a fisioterapia entre o 3° e 5° dia de pós-operatório, respeitando as fases de cicatrização, pois a manipulação precoce pode favorecer complicações.",
+    "local_atendimento": "Os atendimentos são realizados em consultório, garantindo maior objetividade, melhor infraestrutura e maior oferta de recursos.",
+    "filosofia_de_preco": "Não trabalhamos com 'pacotes de drenagem'. Oferecemos um programa personalizado e condizente com o seu processo, sem sessões a mais nem a menos, adaptado às suas necessidades em cada fase.",
+    "programas": {
+      "terapia_manual": {
+        "descricao": "Torna possível a realização de um menor número de sessões com maior intervalo (média de 1 atendimento semanal, não ultrapassando 10 sessões em 60 dias). Estão inclusos todos os recursos manuais e tecnológicos necessários. Duração de 50 minutos.",
+        "evolucao": "No segundo mês, as sessões podem ser semanais ou com intervalos de até 15 dias."
+      },
+      "bem_estar": {
+        "descricao": "Para o paciente mais exigente ou ansioso, que deseja um atendimento mais frequente. Preconiza a realização de até 2 sessões nas duas primeiras semanas, seguidas de uma sessão semanal a partir da terceira semana, para maior controle do edema, relaxamento e bem-estar.",
+        "etapas": "No primeiro mês, são 6 atendimentos. Na segunda etapa (a partir da 5ª semana), é reavaliada a necessidade de manutenção de um atendimento semanal ou com intervalo maior."
+      }
+    },
+    "alta_programada": "Em torno de 60 dias de pós-operatório esperamos que o paciente esteja de alta ou em programação da mesma, ainda que os resultados finais sejam alcançados com 6 a 9 meses."
+  }
+}
