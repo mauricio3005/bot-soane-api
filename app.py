@@ -1,13 +1,15 @@
 import json
 import os
-import redis # <-- MUDANÇA: Importa a biblioteca do Redis
+import redis
 from openai import OpenAI
 from flask import Flask, request, jsonify
 from dotenv import load_dotenv
+from flask_cors import CORS # <-- 1. IMPORTE A BIBLIOTECA
 
 # --- 1. INICIALIZAÇÃO E CONFIGURAÇÃO ---
 load_dotenv()
 app = Flask(__name__)
+CORS(app) # <-- 2. APLIQUE O CORS AO SEU APP
 client = OpenAI()
 
 # --- MUDANÇA: Conexão com o Banco de Dados Redis ---
@@ -105,4 +107,5 @@ def webhook():
 # --- 5. COMANDO PARA INICIAR O SERVIDOR ---
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=int(os.environ.get('PORT', 8080)))
+
 
