@@ -9,7 +9,7 @@ st.caption("Interaja com a Clara, a assistente virtual da Dra. Soane.")
 
 # --- URL DA SUA API (QUE ESTÁ NO RENDER) ---
 # Verifique se esta URL está correta. É o endereço do seu serviço no Render.
-URL_DO_BOT_API = "https://bot-soane-api.onrender.com/webhook" 
+URL_DO_BOT_API = "https://bot-soane-api.onrender.com/webhook"
 
 # --- GERENCIAMENTO DA MEMÓRIA DA CONVERSA NO STREAMLIT ---
 # O Streamlit usa um "session_state" para guardar informações de cada usuário
@@ -78,4 +78,5 @@ if prompt := st.chat_input("Digite sua dúvida aqui..."):
         if gatilho_agendamento:
             st.info("ℹ️ *Gatilho de Agendamento foi detectado pelo sistema!*")
         if gatilho_urgencia:
+
             st.warning("⚠️ *Gatilho de Urgência foi detectado pelo sistema!*")
