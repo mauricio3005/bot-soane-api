@@ -82,6 +82,7 @@ def webhook():
         texto_para_usuario = dados_resposta.get("resposta_para_usuario", "Desculpe...")
         gatilho_agendamento = dados_resposta.get("precisa_agendar", False)
         gatilho_urgencia = dados_resposta.get("conversa_urgente", False)
+        gatilho_humano = dados_resposta.get("precisa_atendimento_humano", False)
 
         dados_usuario["historico"].append({"role": "assistant", "content": texto_para_usuario})
 
@@ -95,10 +96,11 @@ def webhook():
         # -------------------------------------------------------------
         
         return jsonify({
-            "resposta_para_usuario": texto_para_usuario,
-            "gatilho_agendamento": gatilho_agendamento,
-            "gatilho_urgencia": gatilho_urgencia
-        })
+        "resposta_para_usuario": texto_para_usuario,
+        "gatilho_agendamento": gatilho_agendamento,
+        "gatilho_urgencia": gatilho_urgencia,
+        "gatilho_humano": gatilho_humano 
+})
 
     except Exception as e:
         print(f"Erro ao processar a mensagem para {id_usuario}: {e}")
@@ -107,5 +109,6 @@ def webhook():
 # --- 5. COMANDO PARA INICIAR O SERVIDOR ---
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=int(os.environ.get('PORT', 8080)))
+
 
 
