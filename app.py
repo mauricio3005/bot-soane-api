@@ -21,7 +21,7 @@ redis_client = redis.from_url(redis_url, decode_responses=True)
 try:
     with open(os.path.join("banco de dados", "instruções_soane.txt"), "r", encoding="utf-8") as f:
         instrucao_completa = f.read() # Carregamos o prompt completo uma vez
-    with open(os.path.join("banco de dados", "conteudo.json"), "r", encoding="utf-8") as f:
+    with open(os.path.join("banco de dados", "conteudos.json"), "r", encoding="utf-8") as f:
         cerebro_principal = json.load(f)
     with open(os.path.join("banco de dados", "faq.json"), "r", encoding="utf-8") as f:
         faq = json.load(f)
@@ -119,4 +119,5 @@ def webhook():
 # --- 5. COMANDO PARA INICIAR O SERVIDOR (Sem alterações) ---
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=int(os.environ.get('PORT', 8080)))
+
 
